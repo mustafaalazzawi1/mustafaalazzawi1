@@ -2,11 +2,11 @@
 
 # Mustafa Al Azzawi
 
-**Java · Desktop applications · Testing**
+**Software development · Cybersecurity**
 
-Building practical software with clear design and thoughtful user experiences.
+Practical applications, thoughtful interfaces, and security-minded problem solving.
 
-[LinkedIn](https://www.linkedin.com/in/mustafa-azzawi-) · [Explore Chess Swing](https://github.com/mustafaalazzawi1/chess-swing) · [Download the app](https://github.com/mustafaalazzawi1/chess-swing/releases/tag/v1.2.0)
+[LinkedIn](https://www.linkedin.com/in/mustafa-azzawi-) · [Chess Swing](https://github.com/mustafaalazzawi1/chess-swing) · [Download the app](https://github.com/mustafaalazzawi1/chess-swing/releases/tag/v1.2.0)
 
 </div>
 
@@ -14,7 +14,9 @@ Building practical software with clear design and thoughtful user experiences.
 
 ## About me
 
-I build Java applications and enjoy turning ideas into usable desktop tools. My interests include object-oriented design, application interfaces, and reliable software.
+My work and learning span software development and cybersecurity, with Java, Python, and C++. I created the original Java/Swing chess project and directed its expansion into Chess Swing. I also completed CodePath’s CYB101 program and have worked on security labs, threat analysis, and mitigation reports.
+
+I value clear design, practical testing, and software that is easy to use. I am interested in software engineering and cybersecurity opportunities in Austin or remotely.
 
 ## Featured project — Chess Swing
 
@@ -22,26 +24,37 @@ A Java 21 desktop chess application built on my original Java/Swing project.
 
 [![Chess Swing Home screen](https://raw.githubusercontent.com/mustafaalazzawi1/chess-swing/main/docs/screenshots/welcome.png)](https://github.com/mustafaalazzawi1/chess-swing)
 
-- **Play:** local two-player or computer opponents, with optional clocks.
-- **Review:** save and load PGN games, replay moves, and recover a local session.
+- **Play:** local two-player or computer opponents, three difficulty levels, and optional clocks.
+- **Review:** PGN import and export, standard algebraic notation, move replay, takebacks, and local recovery.
 - **Practice:** hints and eight checkmate puzzles.
-- **Experience:** a resizable board, keyboard controls, and three appearances.
+- **Experience:** a resizable board, keyboard controls, and light, dark, and high-contrast appearances.
 
-The project includes **40 automated test groups**, a runnable release, and documentation covering the design, tests, and limitations.
+The project includes **40 automated test groups**, a runnable release, and documentation covering architecture, verification, and known limitations.
 
 [Source code](https://github.com/mustafaalazzawi1/chess-swing) · [Gameplay demo](https://github.com/mustafaalazzawi1/chess-swing/blob/main/docs/demo/gameplay.gif) · [Architecture and design](https://github.com/mustafaalazzawi1/chess-swing/blob/main/docs/TECHNICAL-NOTES.md)
 
-## Project toolkit
+## Cybersecurity work
+
+- **PHI$H TANK:** an executive briefing with a John the Ripper demonstration and a mitigation plan.
+- **Shodan / CVE analysis:** threat-analysis reports connecting findings to remediation steps.
+
+These projects complement my application work with security analysis and technical communication.
+
+## Skills and tools
 
 | Area | Technologies and practices |
 | --- | --- |
-| Application | Java 21, Swing, Java2D, FlatLaf |
-| Design | Object-oriented design, shared rules engine, background search |
-| Quality | Automated regression tests, GUI verification, GitHub Actions |
-| Delivery | Git, GitHub, runnable JAR releases, documented builds |
+| Languages | Java, Python, C++, JavaScript |
+| Foundations | Object-oriented programming, data structures, networking |
+| Desktop development | Swing, Java2D, FlatLaf |
+| Security | Penetration-testing labs, Shodan, CVE analysis, John the Ripper |
+| Development workflow | Git, GitHub, Linux, automated testing, GitHub Actions |
+| Additional technology | PyTorch |
 
-## What I care about
+## Training
 
-- Clear interfaces and useful features.
-- Understandable code and explicit design decisions.
-- Testing the behavior people actually rely on.
+**CodePath — Cybersecurity (CYB101)** · Completed August 2025.
+
+## Connect
+
+Find my professional background and contact options on [LinkedIn](https://www.linkedin.com/in/mustafa-azzawi-).
