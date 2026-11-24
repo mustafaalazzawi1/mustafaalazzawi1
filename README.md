@@ -14,7 +14,7 @@ Practical applications, thoughtful interfaces, and security-minded problem solvi
 
 ## About me
 
-My work and learning span software development and cybersecurity, with Java, Python, and C++. I created the original Java/Swing chess project and directed its expansion into Chess Swing. I also completed CodePath’s CYB101 program and have worked on security labs, threat analysis, and mitigation reports.
+I am a Computer Science student at Texas State University, interested in software development and cybersecurity. I work with Java, Python, and C++. I created the original Java/Swing chess project and directed its expansion into Chess Swing. I also completed CodePath’s CYB101 program and have worked on security labs, threat analysis, and mitigation reports.
 
 I value clear design, practical testing, and software that is easy to use. I am interested in software engineering and cybersecurity opportunities in Austin or remotely.
 
@@ -38,8 +38,6 @@ The project includes **40 automated test groups**, a runnable release, and docum
 - **PHI$H TANK:** an executive briefing with a John the Ripper demonstration and a mitigation plan.
 - **Shodan / CVE analysis:** threat-analysis reports connecting findings to remediation steps.
 
-These projects complement my application work with security analysis and technical communication.
-
 ## Skills and tools
 
 | Area | Technologies and practices |
@@ -49,12 +47,10 @@ These projects complement my application work with security analysis and technic
 | Desktop development | Swing, Java2D, FlatLaf |
 | Security | Penetration-testing labs, Shodan, CVE analysis, John the Ripper |
 | Development workflow | Git, GitHub, Linux, automated testing, GitHub Actions |
-| Additional technology | PyTorch |
+| Computer vision coursework | PyTorch; introductory and intermediate topics within a computer vision course |
 
 ## Training
 
-**CodePath — Cybersecurity (CYB101)** · Completed August 2025.
+- **CodePath — Cybersecurity (CYB101)** · Completed August 2025.
+- **Computer Vision coursework:** used PyTorch throughout a course covering introductory and intermediate topics.
 
-## Connect
-
-Find my professional background and contact options on [LinkedIn](https://www.linkedin.com/in/mustafa-azzawi-).
