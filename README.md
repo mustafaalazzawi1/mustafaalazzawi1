@@ -1,63 +1,28 @@
-<div align="center">
-
 # Mustafa Al Azzawi
 
 **Software development · Cybersecurity**
 
-Practical applications, thoughtful interfaces, and security-minded problem solving.
+Computer Science student at Texas State University. I work with Java, Python, and C++, with interests in desktop software, practical security, and computer vision.
 
-[Portfolio](https://mustafa-al-azzawi-portfolio.mustafaalazzawi.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/mustafa-azzawi-) · [Chess Swing](https://github.com/mustafaalazzawi1/chess-swing) · [Security Lab](https://github.com/mustafaalazzawi1/password-security-lab)
+[Portfolio & live demos](https://mustafa-al-azzawi-portfolio.mustafaalazzawi.chatgpt.site/) · [Connect on LinkedIn](https://www.linkedin.com/in/mustafa-azzawi-)
 
-</div>
+## Selected projects
 
----
+| Project | What to explore | Evidence |
+| --- | --- | --- |
+| [Chess Swing](https://github.com/mustafaalazzawi1/chess-swing) | Java desktop chess, computer play, clocks, PGN, replay, and puzzles | Runnable release; 40 engine/session groups, three view checks, and CI layout checks |
+| [Password Security Lab](https://github.com/mustafaalazzawi1/password-security-lab) | Controlled experiment with six fictional accounts and recorded results | Reproducible evidence, 22 verifier regression tests, and an interactive case study |
+| [PyTorch Digit Classifier](https://github.com/mustafaalazzawi1/pytorch-digit-classifier) | CPU-trained image classifier, linear baseline, and error explorer | 95.55% accuracy on 1,797 held-out images; 80 published mistakes; reproducible training |
 
-## About me
+I created the original Java/Swing chess project and directed its expansion. Each repository explains the methods, verification, limitations, and development assistance behind the work.
 
-I am a Computer Science student at Texas State University, interested in software development and cybersecurity. I work with Java, Python, and C++. I created the original Java/Swing chess project and directed its expansion into Chess Swing. I also completed CodePath’s CYB101 program and have worked on security labs, threat analysis, and mitigation reports.
+## Tools & foundations
 
-I value clear design, practical testing, and software that is easy to use. I am interested in software engineering and cybersecurity opportunities in Austin or remotely.
+- **Languages:** Java, Python, C++, JavaScript
+- **Development:** Git, GitHub, Linux, Swing, automated testing, GitHub Actions
+- **Foundations:** Object-oriented programming, data structures, networking
+- **Computer vision:** PyTorch coursework and the new digit-classification experiment
 
-## Featured project — Chess Swing
+**Training:** CodePath Cybersecurity (CYB101), completed August 2025. University computer-vision coursework covered introductory and intermediate topics using PyTorch.
 
-A Java 21 desktop chess application built on my original Java/Swing project.
-
-[![Chess Swing Home screen](https://raw.githubusercontent.com/mustafaalazzawi1/chess-swing/main/docs/screenshots/welcome.png)](https://github.com/mustafaalazzawi1/chess-swing)
-
-- **Play:** local two-player or computer opponents, three difficulty levels, and optional clocks.
-- **Review:** PGN import and export, standard algebraic notation, move replay, takebacks, and local recovery.
-- **Practice:** hints and eight checkmate puzzles.
-- **Experience:** a resizable board, keyboard controls, and light, dark, and high-contrast appearances.
-
-The project includes **40 automated test groups**, a runnable release, and documentation covering architecture, verification, and known limitations.
-
-[Source code](https://github.com/mustafaalazzawi1/chess-swing) · [Gameplay demo](https://github.com/mustafaalazzawi1/chess-swing/blob/main/docs/demo/gameplay.gif) · [Architecture and design](https://github.com/mustafaalazzawi1/chess-swing/blob/main/docs/TECHNICAL-NOTES.md)
-
-## Featured security lab — Password Exposure & Defense
-
-A reproducible offline experiment with **six fictional accounts**, a Python harness, and John the Ripper.
-
-- **Compare:** three recorded candidate-list stages, with raw inputs and outputs.
-- **Verify:** 23 fixture and result assertions, plus evidence-consistency checks.
-- **Explain:** an independent report connects observations to defenses and states the experiment's limits.
-- **Explore:** an interactive case study and a five-question knowledge check.
-
-The final stage deliberately supplies the known random password as a positive control; it does not demonstrate guessing an unknown random secret. The repository includes reproduction instructions and preparation details.
-
-[Source and evidence](https://github.com/mustafaalazzawi1/password-security-lab) · [Interactive case study](https://mustafa-al-azzawi-portfolio.mustafaalazzawi.chatgpt.site/security-lab.html) · [PDF report](https://github.com/mustafaalazzawi1/password-security-lab/blob/main/docs/Password-Security-Report.pdf)
-
-## Skills and tools
-
-| Area | Technologies and practices |
-| --- | --- |
-| Languages | Java, Python, C++, JavaScript |
-| Foundations | Object-oriented programming, data structures, networking |
-| Desktop development | Swing, Java2D, FlatLaf |
-| Security | Penetration-testing labs, Shodan, CVE analysis, John the Ripper |
-| Development workflow | Git, GitHub, Linux, automated testing, GitHub Actions |
-| Computer vision | PyTorch (coursework) |
-
-## Training
-
-- **CodePath — Cybersecurity (CYB101)** · Completed August 2025.
-- **Computer Vision coursework:** used PyTorch throughout a course covering introductory and intermediate topics.
+Open to software engineering and cybersecurity opportunities in Austin or remotely. Contact me through LinkedIn.
