@@ -47,10 +47,9 @@ The project includes **40 automated test groups**, a runnable release, and docum
 | Desktop development | Swing, Java2D, FlatLaf |
 | Security | Penetration-testing labs, Shodan, CVE analysis, John the Ripper |
 | Development workflow | Git, GitHub, Linux, automated testing, GitHub Actions |
-| Computer vision coursework | PyTorch; introductory and intermediate topics within a computer vision course |
+| Computer vision | PyTorch (coursework) |
 
 ## Training
 
 - **CodePath — Cybersecurity (CYB101)** · Completed August 2025.
 - **Computer Vision coursework:** used PyTorch throughout a course covering introductory and intermediate topics.
-
