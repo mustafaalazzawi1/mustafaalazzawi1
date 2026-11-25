@@ -6,7 +6,7 @@
 
 Practical applications, thoughtful interfaces, and security-minded problem solving.
 
-[LinkedIn](https://www.linkedin.com/in/mustafa-azzawi-) · [Chess Swing](https://github.com/mustafaalazzawi1/chess-swing) · [Download the app](https://github.com/mustafaalazzawi1/chess-swing/releases/tag/v1.2.0)
+[Portfolio](https://mustafa-al-azzawi-portfolio.mustafaalazzawi.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/mustafa-azzawi-) · [Chess Swing](https://github.com/mustafaalazzawi1/chess-swing) · [Security Lab](https://github.com/mustafaalazzawi1/password-security-lab)
 
 </div>
 
@@ -33,10 +33,18 @@ The project includes **40 automated test groups**, a runnable release, and docum
 
 [Source code](https://github.com/mustafaalazzawi1/chess-swing) · [Gameplay demo](https://github.com/mustafaalazzawi1/chess-swing/blob/main/docs/demo/gameplay.gif) · [Architecture and design](https://github.com/mustafaalazzawi1/chess-swing/blob/main/docs/TECHNICAL-NOTES.md)
 
-## Cybersecurity work
+## Featured security lab — Password Exposure & Defense
 
-- **PHI$H TANK:** an executive briefing with a John the Ripper demonstration and a mitigation plan.
-- **Shodan / CVE analysis:** threat-analysis reports connecting findings to remediation steps.
+A reproducible offline experiment with **six fictional accounts**, a Python harness, and John the Ripper.
+
+- **Compare:** three recorded candidate-list stages, with raw inputs and outputs.
+- **Verify:** 23 fixture and result assertions, plus evidence-consistency checks.
+- **Explain:** an independent report connects observations to defenses and states the experiment's limits.
+- **Explore:** an interactive case study and a five-question knowledge check.
+
+The final stage deliberately supplies the known random password as a positive control; it does not demonstrate guessing an unknown random secret. The repository includes reproduction instructions and preparation details.
+
+[Source and evidence](https://github.com/mustafaalazzawi1/password-security-lab) · [Interactive case study](https://mustafa-al-azzawi-portfolio.mustafaalazzawi.chatgpt.site/security-lab.html) · [PDF report](https://github.com/mustafaalazzawi1/password-security-lab/blob/main/docs/Password-Security-Report.pdf)
 
 ## Skills and tools
 
